@@ -5,7 +5,7 @@ Canonical Architecture Baseline: v1.0
 ---
 
 ## Logical Architecture Layers
-
+```
 +--------------------------------------------------+
 | Governance Layer |
 | (Contracts, Escalation, Signal Provenance) |
@@ -35,7 +35,7 @@ Canonical Architecture Baseline: v1.0
 | Verification Layer |
 | (Envelope Validation & Replay Proof) |
 +--------------------------------------------------+
-
+```
 ---
 
 ## Layer Descriptions
